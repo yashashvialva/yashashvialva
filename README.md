@@ -48,4 +48,4 @@ AI-powered code analysis and security assistant built with FastAPI, React, SSE, 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/yashashvialva
-- LinkedIn: Add your LinkedIn here
+- LinkedIn: https://www.linkedin.com/in/yashashvi-alva-600ab8281/
