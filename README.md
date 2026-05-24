@@ -1,61 +1,31 @@
-<h1 align="center">Hi 👋, I'm Yashashvi</h1>
-<h3 align="center">Computer Engineering Student | AWS & Backend Enthusiast</h3>
+<div align="center">
+██╗   ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗   ██╗██╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██║   ██║██║
+ ╚████╔╝ ███████║███████╗███████║███████║███████╗███████║██║   ██║██║
+  ╚██╔╝  ██╔══██║╚════██║██╔══██║██╔══██║╚════██║██╔══██║╚██╗ ██╔╝██║
+   ██║   ██║  ██║███████║██║  ██║██║  ██║███████║██║  ██║ ╚████╔╝ ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝
+Show Image
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Intern;Cloud+Developer;AI+Enthusiast;Hackathon+Finalist&center=true&width=500&height=45&color=58A6FF">
-</p>
+🚀 Projects
+bash$ ls ./projects
+GoalDex — Futuristic OKR and employee goal management platform built using Next.js and Supabase.
+FinSense RL — Reinforcement Learning based financial advisor with dynamic economic simulation.
+Automated AWS Backup Solution — AWS-based backup automation using Lambda, API Gateway, EventBridge, RDS, and S3.
+CodeSentry — AI-powered code analysis and security assistant built with FastAPI, React, SSE, and LLMs.
 
----
+🛠 Tech Stack
+yamlstack: [AWS, Python, Java, React, FastAPI, Docker, Supabase, Git & GitHub]
 
-## 🚀 About Me
+🏆 Achievements
+bash$ cat achievements.log
+> AWS Support Engineering Intern @ Amazon
+> Meta OpenEnv Hackathon Finalist
+> AMD Developer Hackathon Participant
 
-- 🎓 Computer Engineering Student
-- ☁️ AWS Support Engineering Intern @ Amazon
-- 🤖 Interested in AI, Cloud & Backend Systems
-- 🏆 Meta OpenEnv Hackathon Finalist
-- ⚡ Building projects using AWS, FastAPI, React & Docker
-
----
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,python,java,react,fastapi,docker,git,github,linux,mysql" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 GoalDex
-AI-powered OKR and employee goal management platform.
-
-### 🔹 CodeSentry
-AI-powered code security & performance analysis assistant.
-
-### 🔹 FinSense RL
-RL-based financial advisor with dynamic economy simulation.
-
-### 🔹 Automated AWS Backup Solution
-Backup automation using Lambda, API Gateway, EventBridge, RDS & S3.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yashashvialva&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashashvialva&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://github.com/yashashvialva">GitHub</a> •
-<a href="https://www.linkedin.com/in/yashashvi-alva-600ab8281/">LinkedIn</a>
-</p>
+📫 Connect With Me
+<div align="center">
+Show Image
+Show Image
+</div>
